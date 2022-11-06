@@ -1,9 +1,16 @@
 addition code written
 percent feature added.
 square code added
+cube added
+
+
+
 substraction code written
 division code written
 multiplication code added
+
+
+
 
 
 
