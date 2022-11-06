@@ -1,3 +1,7 @@
 addition code written
+percent feature added.
+
 substraction code written
 division code written
+
+
