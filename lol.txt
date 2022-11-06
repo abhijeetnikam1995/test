@@ -9,6 +9,8 @@ substraction code written
 division code written
 multiplication code added
 
+sin calculation function added.
+
 
 
 
