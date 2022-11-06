@@ -3,7 +3,7 @@ percent feature added.
 square code added
 substraction code written
 division code written
-
+multiplication code added
 
 
 
